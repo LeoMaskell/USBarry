@@ -1,0 +1,10 @@
+TODO section
+- TODO:     research components
+- TODO:     make a schematic
+- TODO:     make a pcb
+- TODO:     design case in onshape
+- TODO:     do software with raspi
+
+NOTE section
+- NOTE: budget = £40
+- NOTE: use raspberry pi?
