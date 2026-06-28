@@ -1,7 +1,7 @@
 # NOTES 
 ## BOM
 ### PCB related parts
-- 5x sw_push
+- 5x sw_push - https://www.digikey.co.uk/en/products/detail/omron-electronics-inc-emc-div/B3F-4055/31799?gclsrc=aw.ds&gad_source=1&gad_campaignid=21679743037&gbraid=0AAAAADrbLlj_ZT4mlYUoHOjyfMh8znwXa&gclid=Cj0KCQjwjIPSBhCCARIsABGyK7uIiFlD5keYi1EyUJyI-gb54_UJ27XInRW552N8MRU9cjQsQGNjNyMaAuqhEALw_wcB 
 - 1x I2C 0.91 inch OLED display
 - 1x RPI zero 2w
 - 1x pihut horizontal USB_C breakout board (8 pins)
@@ -26,3 +26,9 @@
 6) 3d print case
 7) put together
 8) HAVE FUN!
+
+## TODO:
+- finnish CAD:
+	- make the usb cutout
+- finnish PCB:
+	*  change the footprint for the buttons, they dont fit - use normal ones and make a D-PAD
