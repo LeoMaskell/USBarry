@@ -7,6 +7,7 @@
 - 1x pihut horizontal USB_C breakout board (8 pins)
 ### case related parts
 - FDM bambulab PLA Basic
+- magnets https://www.amazon.co.uk/circular-whiteboards-refrigerators-bulletin-pictures/dp/B0DPQCP68R/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_5/520-0687331-5224036?pd_rd_w=ewfBX&content-id=amzn1.sym.6448d24d-f04d-4e11-90e5-10165d266aa2&pf_rd_p=6448d24d-f04d-4e11-90e5-10165d266aa2&pf_rd_r=MXCYCKXJQX80Q2VXEVBW&pd_rd_wg=JEILA&pd_rd_r=34b3d817-196b-4df1-b958-b670b31cc7e5&pd_rd_i=B0DPQCP68R&psc=1
 - https://www.amazon.co.uk/JOLIHOME-whiteboard-Waterproof-Chalkboard-Restaurant/dp/B0B7BJC8VP/ref=asc_df_B0B7BJC8VP?mcid=1cb139d4ea3f3c29a2a6cff9b629396c&tag=googshopuk-21&linkCode=df0&hvadid=697341551435&hvpos=&hvnetw=g&hvrand=3742800004503126435&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046547&hvtargid=pla-1880006875136&hvocijid=3742800004503126435-B0B7BJC8VP-&hvexpln=0&gad_source=1&th=1 - whiteboard sheet
 ### misc parts
 - 4x m2.5 (very thin)
