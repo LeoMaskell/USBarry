@@ -1,10 +1,10 @@
 # USBarry
 
-USBarry is a USB-stick style hardware project built for technology prototyping and Git-connected workflows.
+USBarry is a USB-stick style hardware project built for technology prototyping and Git-connected workflows, with a strong privacy-focused design philosophy.
 
 ## Overview
 
-This repository contains the design files and notes for the USBarry hardware project, including PCB and CAD assets.
+This repository contains the design files and notes for the USBarry hardware project, including PCB and CAD assets, with an emphasis on privacy-conscious hardware development.
 
 ## Repository Structure
 
