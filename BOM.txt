@@ -1,0 +1,8 @@
+part:
+- raspberry pi zero, zero w, or zero 2w *5
+- Omron_B3F-40xx *5
+- i2c 0.91 inch display *1
+- pihut usb-c breakout board *1
+
+- 3d printed case *1
+
